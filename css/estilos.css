@@ -1,0 +1,56 @@
+.nav {
+	width: 100%;
+	position: fixed;
+	z-index: 1;
+}
+.final {
+	padding: 0.347vw 0;
+	background-color: #101110;
+}
+.nav ul {
+	padding: 0px;
+	margin: 0px;
+}
+.nav ul li{
+	display: inline;
+	padding: 0px 20px;
+	font-family: lucida bright;
+	font-size: 11px;
+
+}
+.list-group-item{
+	color:#fdf !important;
+	background-color: #101110 !important;
+	margin-top:3vw;
+	font-size:1.5vw;
+	text-align:center !important;
+}
+.list-group-item:hover{
+	background-color: #fff !important;
+	color:#000 !important;
+}
+.navbarla {
+	margin:0;
+	margin-top:1.9vw;
+	background-color:#101110;
+
+}
+.nombre {
+	color:#1481FB;
+	font-family: Times New Roman;
+	font-size: 17vw;
+}
+.nombre2 {
+	color:#6a6666;
+	font-family: Times New Roman;
+	font-size: 2.6vw;
+}
+.tractor {
+	width: 55vw;
+	position: absolute;
+	top:11vw;
+	left: 40vw;
+
+}
+
+
